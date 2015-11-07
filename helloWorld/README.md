@@ -9,5 +9,8 @@ Johnny-five Hello World, based on: https://github.com/rwaldron/johnny-five
 * `mkdir helloworld`
 * `cd helloworld`
 * `vi strobe.js`
+* * [this is the part where you write some code]
 * `nvm use 4.2.1`
-* `npm install johnny-five`
+* * you only need to use the above command if you're using nvm
+* `npm install johnny-five
+* node ./strobe.js
