@@ -1,4 +1,4 @@
-Johnny-five Hello World, based on: https://github.com/rwaldron/johnny-five
+Johnny-five Hello World, based on: https://github.com/rwaldron/johnny-five#hello-johnny
 * `fire up VM and log in`
 * `plug in board`
 * `confirm ability to talk to board: (open arduino IDE and upload firmata firmware)`
@@ -10,7 +10,7 @@ Johnny-five Hello World, based on: https://github.com/rwaldron/johnny-five
 * `mkdir helloworld`
 * `cd helloworld`
 * `vi strobe.js`
-    * [this is the part where you write some code]
+    * [[this is the part where you write some code]](https://github.com/rwaldron/johnny-five#hello-johnny)
 * `nvm use 4.2.1`
     * you only need to use the above command if you're using nvm
 *  npm install johnny-five
