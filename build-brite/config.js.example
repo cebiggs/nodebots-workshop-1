@@ -6,4 +6,5 @@ exports.apiToken = 'ENTER YOUR API TOKEN HERE';
 exports.repo = 'spargonaut/simpleAdder'
 
 // Try changing to "common-anode" if using a common-anode tri-color LED (if the colors look wrong)
-exports.ledType = "common-cathode";
+//exports.ledType = "common-cathode";
+exports.ledType = "common-anode";
