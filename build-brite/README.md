@@ -1,3 +1,9 @@
+this project was originally forked from here: https://github.com/SaraJo/build-brite
+I wrote a simple java application to trigger builds: https://github.com/spargonaut/simpleAdder
+- spargonaut
+
+
+
 Build Brite
 =================
 
