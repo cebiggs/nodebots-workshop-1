@@ -1,0 +1,9 @@
+// Get an API token at https://github.com/settings/tokens/new
+exports.apiToken = 'ENTER YOUR API TOKEN HERE';
+
+// Repo is in the format 'username/repo'
+// It must be a repository where you have pull rights (or be public) and it needs to have CI incorporated.
+exports.repo = 'spargonaut/simpleAdder'
+
+// Try changing to "common-anode" if using a common-anode tri-color LED (if the colors look wrong)
+exports.ledType = "common-cathode";
