@@ -10,3 +10,8 @@ Examples:
 More Examples:
  * [Johnny-five](http://johnny-five.io/examples/)
  
+Challenges:
+ * Control a servo and/or some LEDs based on inputs
+ * Make the speaker sing a tune
+ * Make a servo swing when the build breaks (with a flashing LED)
+ 
